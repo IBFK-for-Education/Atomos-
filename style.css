@@ -1,13 +1,13 @@
 /* PAGE SETTINGS */
 :root {
     --colorDeTextoHeader: white;
-    --colorDeFondoHeader: red;
+    --colorDeFondoHeader: rgb(0, 153, 255);
 
     --colorDeTextMain: white;
-    --colorDeFondoMain: yellow;
+    --colorDeFondoMain: rgb(76, 0, 255);
 
     --colorDeTextFooter: white;
-    --colorDeFondoFooter: blue;
+    --colorDeFondoFooter: rgb(0, 255, 234);
 }
 
 
